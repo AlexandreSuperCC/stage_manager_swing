@@ -1,2 +1,2 @@
 ## stage_manager_swing
-using swing to manager data of internship
+using swing to manage data of internship
